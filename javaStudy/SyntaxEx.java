@@ -29,6 +29,7 @@ package javaStudy;
  * 단 bublic 키워드는 단 하나의 클래스만 가질수 있고, 한번 이상 사용하면 에러입니다.
  * 또한 이 public 을 가진 클래스가 대표 클래스가 되고 , main 메서드를 갖게되며 , 파일명을 이 클래스명으로 합니다.
 */
+
 public class SyntaxEx {
 
 }
